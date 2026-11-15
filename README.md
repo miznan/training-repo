@@ -1,15 +1,15 @@
 # Intern Training: Week 1 (TypeScript → Next.js)
 
-One folder per day. Work **only in your own branch**.
+One folder per day. Work **only in your own branch**. Push to your branch only: no Pull Request, no merge into `main`. Your mentor reviews each branch.
 
 ## First-time setup (Monday morning)
 1. Install **Node.js 26 LTS** (https://nodejs.org), **VS Code** and **Git**.
 2. Check: `node --version` (26.x) and `git --version`.
 3. Clone this repo, then create your branch:
    ```bash
-   git clone <repo-url>
-   cd intern-training
-   git checkout -b intern/<your-name>
+   git clone https://github.com/miznan/training-repo.git
+   cd training-repo
+   git checkout -b intern/<your-name>   # created from main
    ```
 
 ## Every day
