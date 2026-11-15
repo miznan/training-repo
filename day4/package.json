@@ -1,10 +1,11 @@
 {
-  "name": "day2-tue",
+  "name": "day4",
   "version": "1.0.0",
   "private": true,
   "type": "module",
   "engines": { "node": ">=22" },
   "scripts": {
+    "start": "tsx src/main.ts",
     "test": "tsx --test tests/*.test.ts"
   },
   "devDependencies": {

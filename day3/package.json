@@ -1,11 +1,12 @@
 {
-  "name": "day1-mon",
+  "name": "day3",
   "version": "1.0.0",
   "private": true,
   "type": "module",
   "engines": { "node": ">=22" },
   "scripts": {
-    "start": "tsx hello.ts"
+    "start": "tsx src/main.ts",
+    "test": "tsx --test tests/*.test.ts"
   },
   "devDependencies": {
     "@types/node": "^22.0.0",
