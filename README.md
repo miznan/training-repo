@@ -1,4 +1,4 @@
-# Intern Training: Week 1 (TypeScript → Next.js)
+# Training Repo: Week 1 (TypeScript → Next.js)
 
 One folder per day. Work **only in your own branch**. Push to your branch only: no Pull Request, no merge into `main`. Your mentor reviews each branch.
 
