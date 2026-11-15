@@ -1,0 +1,402 @@
+[
+  {
+    "id": "P001",
+    "title": "Dengue surveillance Phase 1",
+    "unit": "IHSR",
+    "status": "Active",
+    "budget": 40500,
+    "startDate": "2023-01-24"
+  },
+  {
+    "id": "P002",
+    "title": "Diabetes registry Phase 1",
+    "unit": "ICR",
+    "status": "Active",
+    "budget": 113000,
+    "startDate": "2023-11-24"
+  },
+  {
+    "id": "P003",
+    "title": "Hypertension cohort Phase 1",
+    "unit": "IPH",
+    "status": "Active",
+    "budget": 159000,
+    "startDate": "2023-01-03"
+  },
+  {
+    "id": "P004",
+    "title": "Childhood obesity Phase 1",
+    "unit": "IHBR",
+    "status": "Completed",
+    "budget": 144500,
+    "startDate": "2023-09-07"
+  },
+  {
+    "id": "P005",
+    "title": "Air quality and asthma Phase 1",
+    "unit": "ICR",
+    "status": "Active",
+    "budget": 227500,
+    "startDate": "2026-04-15"
+  },
+  {
+    "id": "P006",
+    "title": "Mental health survey Phase 1",
+    "unit": "IHM",
+    "status": "Active",
+    "budget": 44500,
+    "startDate": "2023-03-23"
+  },
+  {
+    "id": "P007",
+    "title": "",
+    "unit": "IMR",
+    "status": "Active",
+    "budget": 96500,
+    "startDate": "2024-06-04"
+  },
+  {
+    "id": "P008",
+    "title": "Maternal nutrition Phase 1",
+    "unit": "IMR",
+    "status": "Completed",
+    "budget": 142000,
+    "startDate": "2025-10-09"
+  },
+  {
+    "id": "P009",
+    "title": "Tuberculosis screening Phase 1",
+    "unit": "ICR",
+    "status": "Active",
+    "budget": 165500,
+    "startDate": "2023-07-03"
+  },
+  {
+    "id": "P010",
+    "title": "Smoking cessation Phase 1",
+    "unit": "IHBR",
+    "status": "Active",
+    "budget": 174000,
+    "startDate": "2025-10-07"
+  },
+  {
+    "id": "P011",
+    "title": "Elderly care access Phase 1",
+    "unit": "IPH",
+    "status": "On Hold",
+    "budget": 102000,
+    "startDate": "2024-05-03"
+  },
+  {
+    "id": "P012",
+    "title": "Health cost study Phase 1",
+    "unit": "IHSR",
+    "status": "Active",
+    "budget": 95500,
+    "startDate": "2025-08-21"
+  },
+  {
+    "id": "P013",
+    "title": "Leptospirosis mapping Phase 1",
+    "unit": "IHBR",
+    "status": "On Hold",
+    "budget": -5000,
+    "startDate": "2024-11-09"
+  },
+  {
+    "id": "P014",
+    "title": "Vaccine uptake Phase 1",
+    "unit": "IPH",
+    "status": "Completed",
+    "budget": 67500,
+    "startDate": "2023-10-21"
+  },
+  {
+    "id": "P015",
+    "title": "Cancer registry review Phase 1",
+    "unit": "IHSR",
+    "status": "On Hold",
+    "budget": 168500,
+    "startDate": "2024-08-13"
+  },
+  {
+    "id": "P016",
+    "title": "Stroke rehabilitation Phase 1",
+    "unit": "IMR",
+    "status": "Active",
+    "budget": 13000,
+    "startDate": "2024-11-11"
+  },
+  {
+    "id": "P017",
+    "title": "Oral health survey Phase 1",
+    "unit": "IMR",
+    "status": "Active",
+    "budget": 246000,
+    "startDate": "2025-07-09"
+  },
+  {
+    "id": "P018",
+    "title": "Hospital waiting time Phase 1",
+    "unit": "IHM",
+    "status": "Active",
+    "budget": 239000,
+    "startDate": "2025-04-21"
+  },
+  {
+    "id": "P019",
+    "title": "Malaria elimination Phase 1",
+    "unit": "IPH",
+    "status": "Active",
+    "budget": 148500,
+    "startDate": "2026-03-09"
+  },
+  {
+    "id": "P020",
+    "title": "Sleep and shift work Phase 1",
+    "unit": "IHM",
+    "status": "On Hold",
+    "budget": 107000,
+    "startDate": "2025-12-19"
+  },
+  {
+    "id": "P021",
+    "title": "Kidney disease cohort Phase 1",
+    "unit": "XYZ",
+    "status": "Active",
+    "budget": 198000,
+    "startDate": "2025-04-05"
+  },
+  {
+    "id": "P022",
+    "title": "Physical activity trial Phase 1",
+    "unit": "IHBR",
+    "status": "Active",
+    "budget": 179000,
+    "startDate": "2023-02-05"
+  },
+  {
+    "id": "P023",
+    "title": "Food safety audit Phase 1",
+    "unit": "IHM",
+    "status": "Active",
+    "budget": 124500,
+    "startDate": "2026-10-03"
+  },
+  {
+    "id": "P024",
+    "title": "Rare disease registry Phase 1",
+    "unit": "IMR",
+    "status": "Completed",
+    "budget": 34000,
+    "startDate": "2025-09-28"
+  },
+  {
+    "id": "P025",
+    "title": "Digital health adoption Phase 1",
+    "unit": "IMR",
+    "status": "Active",
+    "budget": 45000,
+    "startDate": "2025-11-11"
+  },
+  {
+    "id": "P026",
+    "title": "Dengue surveillance Phase 2",
+    "unit": "IHBR",
+    "status": "Active",
+    "budget": 133000,
+    "startDate": "2026-01-24"
+  },
+  {
+    "id": "P027",
+    "title": "Diabetes registry Phase 2",
+    "unit": "IHBR",
+    "status": "Active",
+    "budget": 168500,
+    "startDate": "2024-09-04"
+  },
+  {
+    "id": "P028",
+    "title": "Hypertension cohort Phase 2",
+    "unit": "IPH",
+    "status": "Completed",
+    "budget": 204000,
+    "startDate": "2024-03-12"
+  },
+  {
+    "id": "P029",
+    "title": "Childhood obesity Phase 2",
+    "unit": "IHM",
+    "status": "Active",
+    "budget": 242500,
+    "startDate": "2023-10-11"
+  },
+  {
+    "id": "P030",
+    "title": "Air quality and asthma Phase 2",
+    "unit": "IMR",
+    "status": "Active",
+    "budget": 150000,
+    "startDate": "2025-05-08"
+  },
+  {
+    "id": "P031",
+    "title": "Mental health survey Phase 2",
+    "unit": "IHM",
+    "status": "On Hold",
+    "budget": 199500,
+    "startDate": "2023-02-24"
+  },
+  {
+    "id": "P032",
+    "title": "Antimicrobial resistance Phase 2",
+    "unit": "IHM",
+    "status": "On Hold",
+    "budget": 47000,
+    "startDate": "2024-03-22"
+  },
+  {
+    "id": "P033",
+    "title": "Maternal nutrition Phase 2",
+    "unit": "ICR",
+    "status": "Active",
+    "budget": 59000,
+    "startDate": "2025-09-28"
+  },
+  {
+    "id": "P034",
+    "title": "Tuberculosis screening Phase 2",
+    "unit": "IHM",
+    "status": "On Hold",
+    "budget": 171000,
+    "startDate": "2025-13-40"
+  },
+  {
+    "id": "P035",
+    "title": "Smoking cessation Phase 2",
+    "unit": "IHM",
+    "status": "Active",
+    "budget": 62500,
+    "startDate": "2025-08-17"
+  },
+  {
+    "id": "P036",
+    "title": "Elderly care access Phase 2",
+    "unit": "ICR",
+    "status": "Completed",
+    "budget": 155500,
+    "startDate": "2023-06-01"
+  },
+  {
+    "id": "P037",
+    "title": "Health cost study Phase 2",
+    "unit": "IHBR",
+    "status": "Completed",
+    "budget": 63500,
+    "startDate": "2024-01-03"
+  },
+  {
+    "id": "P038",
+    "title": "Leptospirosis mapping Phase 2",
+    "unit": "IHSR",
+    "status": "Active",
+    "budget": 65500,
+    "startDate": "2023-01-28"
+  },
+  {
+    "id": "P039",
+    "title": "Vaccine uptake Phase 2",
+    "unit": "IPH",
+    "status": "Completed",
+    "budget": 190000,
+    "startDate": "2025-11-16"
+  },
+  {
+    "id": "P040",
+    "title": "Cancer registry review Phase 2",
+    "unit": "IHM",
+    "status": "On Hold",
+    "budget": 53500,
+    "startDate": "2026-04-26"
+  },
+  {
+    "id": "P041",
+    "title": "Stroke rehabilitation Phase 2",
+    "unit": "IHM",
+    "status": "Active",
+    "budget": 110000,
+    "startDate": "2023-02-22"
+  },
+  {
+    "id": "P042",
+    "title": "Oral health survey Phase 2",
+    "unit": "IHBR",
+    "status": "Pending",
+    "budget": 170000,
+    "startDate": "2026-12-02"
+  },
+  {
+    "id": "P043",
+    "title": "Hospital waiting time Phase 2",
+    "unit": "IHBR",
+    "status": "Active",
+    "budget": 225500,
+    "startDate": "2023-01-13"
+  },
+  {
+    "id": "P044",
+    "title": "Malaria elimination Phase 2",
+    "unit": "IPH",
+    "status": "Completed",
+    "budget": 40500,
+    "startDate": "2023-04-07"
+  },
+  {
+    "id": "P045",
+    "title": "Sleep and shift work Phase 2",
+    "unit": "IHM",
+    "status": "Active",
+    "budget": 241000,
+    "startDate": "2026-03-09"
+  },
+  {
+    "id": "P046",
+    "title": "Kidney disease cohort Phase 2",
+    "unit": "ICR",
+    "status": "Active",
+    "budget": "15000",
+    "startDate": "2023-08-26"
+  },
+  {
+    "id": "P047",
+    "title": "Physical activity trial Phase 2",
+    "unit": "IPH",
+    "status": "Active",
+    "budget": 129000,
+    "startDate": "2023-02-25"
+  },
+  {
+    "id": "P048",
+    "title": "Food safety audit Phase 2",
+    "unit": "IHM",
+    "status": "On Hold",
+    "budget": 47000,
+    "startDate": "2026-04-28"
+  },
+  {
+    "id": "P049",
+    "title": "Rare disease registry Phase 2",
+    "unit": "IHSR",
+    "status": "On Hold",
+    "budget": 205500,
+    "startDate": "2026-01-13"
+  },
+  {
+    "id": "P050",
+    "title": "Digital health adoption Phase 2",
+    "unit": "IHBR",
+    "status": "On Hold",
+    "budget": 205500,
+    "startDate": "2026-05-14"
+  }
+]
